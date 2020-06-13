@@ -8,7 +8,7 @@ compete to be the first to get four of their color in a row!
 
 ## Structure
 PlayGame.java contains the main method in which the gameplay loop takes place.
-This control loops in until either a player has won or there is a draw. Then
+This control loops until either a player has won or there is a draw. Then
 the method prints the results.
 
 Board.java is the blueprint for the Board object. This composes of the main 
