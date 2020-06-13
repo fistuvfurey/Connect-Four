@@ -1,6 +1,6 @@
 # Connect Four
 This is a game of Connect Four that is run as a command line application.
-Install java on your machine and compile the code from the command line
+Install Java on your machine and compile the code from the command line
 then run PlayGame.java to play!
 
 Connect Four is an intense and strategic game where two players, Red and Yellow,
